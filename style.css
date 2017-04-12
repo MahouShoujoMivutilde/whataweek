@@ -24,3 +24,8 @@ a:link:hover,a:visited:hover {
 .adsbygoogle {
     max-width: 728px !important;
 }
+
+body {
+    display: flex;
+    justify-content: center;
+}
